@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Tmall-SSM" target="1.8" />
+      <module name="Tmall-SSM" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
