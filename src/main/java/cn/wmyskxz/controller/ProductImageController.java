@@ -51,6 +51,7 @@ public class ProductImageController {
 		// 上传文件到指定位置
 		String filePath = request.getSession().getServletContext()
 				.getRealPath("img/product/" + product_id);
+		System.out.println(filePath);
 		// 因为 id 是自增长键，所以需要 % 5 来作为文件名
 		String fileName = (id % 5 == 0 ? 5 : id % 5) + ".jpg";
 		File uploadPicture = new File(filePath, fileName);

@@ -2,6 +2,7 @@ package cn.wmyskxz.controller;
 
 import cn.wmyskxz.pojo.User;
 import cn.wmyskxz.service.UserService;
+import org.apache.ibatis.annotations.Param;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
