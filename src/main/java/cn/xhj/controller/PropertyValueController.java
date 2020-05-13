@@ -13,12 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 import java.util.List;
 
-/**
- * PropertyValue 控制类
- *
- * @author: @我没有三颗心脏
- * @create: 2018-04-28-上午 7:52
- */
+
 @Controller
 @RequestMapping("/admin")
 public class PropertyValueController {

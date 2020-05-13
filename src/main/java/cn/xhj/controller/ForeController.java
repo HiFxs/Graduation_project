@@ -14,12 +14,7 @@ import javax.servlet.http.HttpSession;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-/**
- * 前台控制器
- *
- * @author: @我没有三颗心脏
- * @create: 2018-04-29-下午 14:45
- */
+
 @Controller
 public class ForeController {
 

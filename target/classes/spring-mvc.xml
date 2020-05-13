@@ -11,7 +11,7 @@
        http://www.springframework.org/schema/mvc/spring-mvc-3.0.xsd">
 
     <!-- 扫描web相关的bean -->
-    <context:component-scan base-package="cn.wmyskxz.controller"/>
+    <context:component-scan base-package="cn.xhj.controller"/>
 
     <!-- 开启SpringMVC注解模式 -->
     <mvc:annotation-driven/>
@@ -33,11 +33,11 @@
     <mvc:interceptors>
         <mvc:interceptor>
             <mvc:mapping path="/*"/>
-            <bean class="cn.wmyskxz.interceptor.LoginInterceptor"/>
+            <bean class="cn.xhj.interceptor.LoginInterceptor"/>
         </mvc:interceptor>
         <mvc:interceptor>
             <mvc:mapping path="/*"/>
-            <bean class="cn.wmyskxz.interceptor.OtherInterceptor"/>
+            <bean class="cn.xhj.interceptor.OtherInterceptor"/>
         </mvc:interceptor>
     </mvc:interceptors>
 </beans>

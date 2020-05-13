@@ -8,12 +8,7 @@ import org.springframework.stereotype.Service;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * cn.wmyskxz.pojo.PropertyValueValueService 实现类
- *
- * @author: @我没有三颗心脏
- * @create: 2018-04-28-上午 7:47
- */
+
 @Service
 public class PropertyValueServiceImpl implements PropertyValueService {
 

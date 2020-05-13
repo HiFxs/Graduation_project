@@ -13,12 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import java.util.List;
 
-/**
- * 其他拦截器
- *
- * @author: @我没有三颗心脏
- * @create: 2018-05-06-下午 15:48
- */
+
 public class OtherInterceptor extends HandlerInterceptorAdapter {
 
 	@Autowired

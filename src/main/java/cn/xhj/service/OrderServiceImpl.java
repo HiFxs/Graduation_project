@@ -11,12 +11,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
-/**
- * OrderService 实现类
- *
- * @author: @我没有三颗心脏
- * @create: 2018-04-29-上午 10:19
- */
+
 @Service
 public class OrderServiceImpl implements OrderService {
 

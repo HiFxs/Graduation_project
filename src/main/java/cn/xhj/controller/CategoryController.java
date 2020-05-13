@@ -9,12 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 import java.util.List;
 
-/**
- * Category 的控制类
- *
- * @author: @我没有三颗心脏
- * @create: 2018-04-27-下午 16:37
- */
+
 @Controller
 @RequestMapping("/admin")
 public class CategoryController {

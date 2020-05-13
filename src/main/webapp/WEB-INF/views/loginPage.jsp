@@ -17,8 +17,8 @@
     }
 
     .header .tm-logo {
-        margin-top: 8px;
-        width: 190px;
+        height: 50px;
+        width: 60px;
     }
 
     #mallPage, #mallPage.mallChn {
@@ -29,8 +29,8 @@
 </style>
 <div class="mallPage" id="mallPage">
     <div class="header">
-        <a href="/home">
-            <img src="/img/fore/tmallLogo.png" class="tm-logo">
+        <a href="/home" style="font-size: 40px;color: orange;">
+            <img src="/img/fore/tmallLogo.png"  class="tm-logo">Orange.com
         </a>
     </div>
 </div>
@@ -115,7 +115,7 @@
 
     button.redButton {
         color: white;
-        background-color: #FF0036;
+        background-color:#fffe00;
         font-size: 16px;
         font-weight: 700;
         height: 42px;
@@ -155,7 +155,7 @@
 <div class="content">
     <div class="login-banner-wrap" style="width: 100%; background-color: rgb(223, 226, 231);" title="">
         <div class="inner">
-            <img src="/img/fore/loginPage-background.jpg">
+            <img src="/img/fore/loginPage-background.jpg"  >
         </div>
     </div>
 
@@ -183,7 +183,7 @@
                         <input id="password" name="password" type="password" placeholder="密码" type="text">
                     </div>
 
-                    <span class="text-danger">不要输入真实的天猫账号密码</span><br><br>
+                    <span class="text-danger">不要输入真实的橘子账号密码</span><br><br>
 
                     <div style="margin-top:10px">
                         <button class="redButton" type="submit">登 录</button>

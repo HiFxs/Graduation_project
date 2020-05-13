@@ -99,6 +99,7 @@
     }
 
     img.tmall-cat {
+        width: 130px;
         margin-left: 20px;
     }
 </style>
@@ -123,7 +124,7 @@
                 <dd><a href="#nowhere">支付宝充值</a></dd>
             </dl>
             <dl>
-                <dt><span>天猫保障</span></dt>
+                <dt><span>橘子保障</span></dt>
                 <dd><a href="#nowhere">发票保障</a></dd>
                 <dd><a href="#nowhere">售后规则</a></dd>
                 <dd><a href="#nowhere">缺货赔付</a></dd>
@@ -138,7 +139,7 @@
             </dl>
             <dl>
                 <dt><span>商家服务</span></dt>
-                <dd><a href="#nowhere">天猫规则</a></dd>
+                <dd><a href="#nowhere">橘子规则</a></dd>
                 <dd><a href="#nowhere">商家入驻</a></dd>
                 <dd><a href="#nowhere">商家中心</a></dd>
                 <dd><a href="#nowhere">天猫智库</a></dd>
@@ -147,7 +148,7 @@
                 <dd><a href="#nowhere">运营服务</a></dd>
             </dl>
             <dl>
-                <dt><span>手机天猫</span></dt>
+                <dt><span>手机橘子</span></dt>
                 <dd><a href="#nowhere"><img src="img/fore/qr-code.png"></a></dd>
             </dl>
         </div>
@@ -162,7 +163,7 @@
         <div class="workArea">
             <div class="mui-global-fragment-load">
                 <div class="footer-tmallinfo">
-                    <a href="#nowhere" style="padding-left:0px">关于天猫</a>
+                    <a href="#nowhere" style="padding-left:0px">关于橘子</a>
                     <a href="#nowhere">帮助中心</a>
                     <a href="#nowhere">开放平台</a>
                     <a href="#nowhere">诚聘英才</a>
@@ -174,9 +175,9 @@
                     <a href="#nowhere">规则意见征集</a>
                 </div>
                 <div class="footer-tmallinfo">
-                    <a href="#nowhere" style="padding-left:0px">阿里巴巴集团</a><span class="slash">|</span>
+                    <a href="#nowhere" style="padding-left:0px">橘子集团</a><span class="slash">|</span>
                     <a href="#nowhere">淘宝网</a><span class="slash">|</span>
-                    <a href="#nowhere">天猫</a><span class="slash">|</span>
+                    <a href="#nowhere">橘子</a><span class="slash">|</span>
                     <a href="#nowhere">聚划算</a><span class="slash">|</span>
                     <a href="#nowhere">全球速卖通</a><span class="slash">|</span>
                     <a href="#nowhere">阿里巴巴国际交易市场</a><span class="slash">|</span>

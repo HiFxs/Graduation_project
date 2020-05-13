@@ -10,12 +10,7 @@ import org.springframework.stereotype.Service;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * ProductService 实现类
- *
- * @author: @我没有三颗心脏
- * @create: 2018-04-27-下午 20:16
- */
+
 @Service
 public class ProductServiceImpl implements ProductService {
 

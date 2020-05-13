@@ -343,7 +343,7 @@
             <div class="productPrice">
                 <div class="productPriceDiv">
                     <div class="gouwujuanDiv"><img src="img/fore/tmall-coupon.png">
-                        <span> 全天猫实物商品通用</span>
+                        <span> 全橘子实物商品通用</span>
                     </div>
 
                     <div class="promotionDiv">

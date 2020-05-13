@@ -16,12 +16,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.io.File;
 import java.util.List;
 
-/**
- * Product 控制器
- *
- * @author: @我没有三颗心脏
- * @create: 2018-04-27-下午 20:21
- */
+
 @Controller
 @RequestMapping("/admin")
 public class ProductController {

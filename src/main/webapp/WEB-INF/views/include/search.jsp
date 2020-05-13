@@ -14,7 +14,7 @@
 
         <%-- 搜索框 --%>
         <form class="mallSearch-input" action="/searchProduct">
-            <input name="keyword" type="text" placeholder="搜索 天猫 商品/品牌/店铺">
+            <input name="keyword" type="text" placeholder="搜索 橘子 商品/品牌/店铺">
             <button type="submit" class="searchButton">搜索</button>
             <ul class="hot-query">
                 <li>

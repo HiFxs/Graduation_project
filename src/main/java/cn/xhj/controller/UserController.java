@@ -9,12 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 import java.util.List;
 
-/**
- * User 控制器
- *
- * @author: @我没有三颗心脏
- * @create: 2018-04-29-上午 9:51
- */
+
 @Controller
 @RequestMapping("/admin")
 public class UserController {

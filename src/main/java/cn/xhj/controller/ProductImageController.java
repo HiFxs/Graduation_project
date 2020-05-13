@@ -16,12 +16,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.io.File;
 import java.util.List;
 
-/**
- * ProductImage 的控制器
- *
- * @author: @我没有三颗心脏
- * @create: 2018-04-28-下午 14:10
- */
+
 @Controller
 @RequestMapping("/admin")
 public class ProductImageController {

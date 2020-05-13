@@ -91,7 +91,7 @@
     }
 
     .logo img {
-        height: 30px;
+        height: 100px;
         width: 145px;
     }
 </style>
@@ -106,8 +106,8 @@
         </div>
         <div class="fullSearchDiv">
             <form class="searchFrom" action="searchProduct">
-                <input type="text" value="${param.keyword}" placeholder="搜索 天猫 商品/品牌/店铺" name="keyword">
-                <button class="searchButton" type="submit">搜天猫</button>
+                <input type="text" value="${param.keyword}" placeholder="搜索 橘子 商品/品牌/店铺" name="keyword">
+                <button class="searchButton" type="submit">搜橘子</button>
             </form>
             <div>
                 <button class="shopButton" type="button">搜本店</button>

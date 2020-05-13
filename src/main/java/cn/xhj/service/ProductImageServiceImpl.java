@@ -8,12 +8,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-/**
- * ProductImageService 实现类
- *
- * @author: @我没有三颗心脏
- * @create: 2018-04-28-上午 11:04
- */
+
 @Service
 public class ProductImageServiceImpl implements ProductImageService {
 

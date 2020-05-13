@@ -10,12 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Order 控制器
- *
- * @author: @我没有三颗心脏
- * @create: 2018-04-29-上午 10:22
- */
+
 @Controller
 @RequestMapping("/admin")
 public class OrderController {
