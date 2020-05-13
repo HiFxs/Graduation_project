@@ -128,7 +128,7 @@
                 <dd><a href="#nowhere">售后规则</a></dd>
                 <dd><a href="#nowhere">缺货赔付</a></dd>
             </dl>
-            <dl>
+                <dl>
                 <dt><span>支付方式</span></dt>
                 <dd><a href="#nowhere">快捷支付</a></dd>
                 <dd><a href="#nowhere">信用卡</a></dd>
